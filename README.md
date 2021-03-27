@@ -29,7 +29,7 @@ Number and name of feature: Feature #3: Modify the contents
 
 Estimate of time needed to complete: an hour
 
-Start time: 9:35 PM
+Start time: 8:03 PM
 
 Finish time: 9:32 PM
 
